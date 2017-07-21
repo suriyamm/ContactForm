@@ -1,0 +1,183 @@
+body {
+	/* background-image:url("background.jpg"); */
+	/* background: #E5F5F6; */
+	background-size: cover;
+	background: linear-gradient(#35598d 0,#365a8e 30%,#f2f2f2 100%);
+}
+
+.midarea {
+	/* 	margin-left: 20%;
+	margin-right: 20%; */
+	/* background: #0885A0; */
+	background:white;
+	background-size: cover;
+	border:1px solid #201453;
+	color: #201453;	
+	    box-shadow: 10px 10px;
+}
+
+.alignStyle {
+	padding-left: 5%;
+}
+
+.textAlign {
+	padding-left: 15%;
+}
+
+.labelStyle {
+	width: 25%;
+}
+
+.phoneAlign {
+	margin-left: 2% !important;
+}
+
+.contactInfo {
+	position: relative;
+	border:1px #22B7BB;
+}
+.btnStyle{
+	border-radius: 10px;
+    WIDTH: 20%;
+    border: 1px solid black;
+}
+
+.h2Style {
+	position: absolute;
+	top: 120px;
+	width: 100%;
+	margin-left: 25%;
+	color:#201453;
+}
+
+.faqStyle {
+	position: absolute;
+	top: 400px;
+	width: 100%;
+	margin-left: 25%;
+	color:#201453;
+}
+.alignText{
+	padding-top:3%;
+}
+.borderStyle{
+	color: black;
+    text-align: left;
+    /* top: 0px; */
+    font-size: large;
+    width: 108px;
+    left: 9%;
+    position: absolute;
+    background: white;
+    margin-top: -1%;
+     margin-top: -1%;
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.42857143;
+}
+
+.text{
+	
+    
+    text-align: left;
+    padding: 20px 10px 20px 10px;
+    border: 1px solid #201453;
+    width: 790px;
+
+}
+
+.imgAlign {
+	width: 75%;
+	margin-left: 3%;
+	height:330px;
+	border:1px solid #22B7BB;
+	    background: white;
+	        box-shadow: 10px 10px;
+}
+
+.bgStyle{
+	background: #201453;
+	/* background-size: cover; */
+}
+
+.title{
+	color:white;
+}
+.headerStyle{
+	
+    
+    background: red; /* For browsers that do not support gradients */        
+    background: -webkit-linear-gradient(-90deg, #06B0A6, #1F1A56); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(-90deg, #06B0A6, #1F1A56); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(-90deg, #06B0A6, #1F1A56); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(-90deg, #06B0A6, #1F1A56); /* Standard syntax (must be last) */
+	margin-top:1%;
+	margin-bottom:1%;
+}
+
+.legendStyle{
+	    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.42857143;
+    color: #201453;
+    font-weight: bold;
+}
+.browseBtnStyle{
+	height: 34px;
+    /* padding-left: 21px; */
+    margin-left: 1%;
+    width: 70px;
+    background: cadetblue;
+}
+
+.cancelBtn{
+	background: darkred;
+}
+.phoneImg{
+	    width: 6%;
+    margin-left: 2%;
+}
+.submitBtn{
+	background: green;
+}
+.bStyle{
+	color: black;
+    text-align: left;
+    /* top: 30px; */
+    font-size: large;
+    width: 69px;
+    left: 9%;
+    position: absolute;
+    background: white;
+        margin-top: -1%;
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.42857143;
+}
+.errorMsg{
+	margin-left: 30%;
+    color: red;
+}
+#firstNameErr{
+	display:none;
+}
+.faqs{
+margin-top:2%;
+}
+
+.phoneTxtAlign{
+	    margin-left: 11%;
+}
+
+.securityText{
+	    font-weight: bolder;
+    font-stretch: expanded;
+    font-size: x-large;
+}
+
+.widgetHeading{
+	    font-size: large;
+    font-weight: bold;
+    color: #201453;
+    margin-left: 3%;
+}
